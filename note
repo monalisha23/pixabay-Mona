@@ -1,0 +1,14 @@
+image sprites
+an image sprites is a collection of image put into a single image
+a web with many image can taked a long time to load and generate mulutiple server request.
+using image sprites will reduced the number of server request andsave bandwidth.
+
+css positon
+1 sattic 
+reletive
+absolute
+fixed
+stiky
+
+ 
+
